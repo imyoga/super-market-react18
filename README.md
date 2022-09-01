@@ -1,14 +1,16 @@
-# SuperM React Tutorial
+# Super Market
+## Hosted Live: https://super-market-react18.netlify.app/
 
-https://react-tutorial.app
+Developed with: React, HTML, CSS
 
-Feel free to remix the project. You can use it for your job interview, to start your own project. You can add features, remove features, host it online. The only **restriction** is hosting the original project with the instructions that were provided on React Tutorial.
+*Note: The payment process will not be charging anything to your payment method. It is in test mode.* 
 
-Get started by running `npm install` and then `npm run start`
 
----
+
+<img src="super-market.png" height='300'>
 
 # Getting Started with Create React App
+Get started by running `npm install` and then `npm run start`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
