@@ -1,4 +1,4 @@
-# Super Market
+# Super Market (A Shopping App)
 ## Hosted Live: https://super-market-react18.netlify.app/
 
 Developed with: React, HTML, CSS
